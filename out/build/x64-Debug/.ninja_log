@@ -1,0 +1,19 @@
+# ninja log v6
+8	118	8043363383590055	CMakeFiles/glad.dir/src/glad/glad.c.obj	4aaa271fe3cbd3d5
+59	234	8043363384092113	CMakeFiles/poop3D.dir/src/ui_theme.cpp.obj	f9ab3c628900642b
+20	370	8043363383710111	CMakeFiles/imgui.dir/src/imgui/imgui_tables.cpp.obj	3d5ebdda55030f70
+16	448	8043363383662112	CMakeFiles/imgui.dir/src/imgui/imgui_draw.cpp.obj	f8047a51936d57e3
+25	488	8043363383756243	CMakeFiles/imgui.dir/src/imgui/imgui_widgets.cpp.obj	3261f268ea64ac01
+63	501	8043363384142971	CMakeFiles/poop3D.dir/src/windows_main.cpp.obj	a0d4753872c99a7f
+30	512	8043363383801374	CMakeFiles/imgui.dir/src/imgui/backends/imgui_impl_glfw.cpp.obj	2db3901125d5ebb7
+11	668	8043363383620442	CMakeFiles/imgui.dir/src/imgui/imgui.cpp.obj	f1dc03c89a05622d
+49	1510	8043363383991911	CMakeFiles/poop3D.dir/src/renderer.cpp.obj	4359221b5de41429
+40	1534	8043363383902728	CMakeFiles/poop3D.dir/src/main.cpp.obj	e0562df9e203082c
+53	1610	8043363384039600	CMakeFiles/poop3D.dir/src/mesh_optimizer.cpp.obj	b38af629765b33cf
+45	1689	8043363383947459	CMakeFiles/poop3D.dir/src/app.cpp.obj	3ccb4ddfacd780b5
+25	68	8043365079988642	lib/glad.lib	67b8004edbd5980d
+21	245	8043365079944183	CMakeFiles/imgui.dir/src/imgui/backends/imgui_impl_opengl3.cpp.obj	72fd0694d2e43cbd
+245	298	8043365082179517	lib/imgui.lib	e4dc8add4d92f9ad
+31	1224	8043365080051624	CMakeFiles/poop3D.dir/src/main.cpp.obj	e0562df9e203082c
+37	1403	8043365080107788	CMakeFiles/poop3D.dir/src/app.cpp.obj	3ccb4ddfacd780b5
+1403	1902	8043365093762655	bin/poop3D.exe	4fb62ca5a4261e6e

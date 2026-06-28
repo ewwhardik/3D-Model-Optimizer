@@ -1,0 +1,5 @@
+D:/2.0/fixed/poop3d_fixed/out/build/x64-Debug/CMakeFiles/glad.dir
+D:/2.0/fixed/poop3d_fixed/out/build/x64-Debug/CMakeFiles/imgui.dir
+D:/2.0/fixed/poop3d_fixed/out/build/x64-Debug/CMakeFiles/poop3D.dir
+D:/2.0/fixed/poop3d_fixed/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/2.0/fixed/poop3d_fixed/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
