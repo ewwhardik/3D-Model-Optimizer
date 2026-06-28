@@ -22,6 +22,8 @@ A production-quality desktop application for optimizing and compressing 3D model
 
 ---
 
+![Preview](./preview.png)
+
 ## 🚀 Quick Start
 
 ### Step 1 — Get dependencies
