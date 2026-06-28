@@ -199,7 +199,7 @@ brew install glfw
 
 ## 📄 License
 
-MIT License — © 2024 Hardik / poop Organization
+© 2026 Hardik / poop Organization
 
 ---
 
